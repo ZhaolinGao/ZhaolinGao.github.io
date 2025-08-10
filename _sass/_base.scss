@@ -54,25 +54,6 @@ img {
   max-width: 90vw;
 }
 
-// Ensure profile figures are always visible
-.profile figure {
-  max-width: 100%;
-
-  @media (max-width: 575.98px) {
-    max-width: 180px;
-    margin: 0 auto;
-  }
-}
-
-// Fallback rules to ensure profile images are always visible
-.profile img,
-.profile figure img,
-.profile picture img {
-  min-width: 1px; // Prevent zero-width images
-  min-height: 1px; // Prevent zero-height images
-  opacity: 1 !important; // Ensure visibility
-}
-
 blockquote {
   background: var(--global-bg-color);
   border-left: 2px solid var(--global-theme-color);
@@ -133,8 +114,6 @@ blockquote {
 .profile {
   margin-left: 1rem;
   width: 100%;
-  margin-bottom: 1rem;
-  overflow: hidden; // Prevent float issues
 
   .address {
     margin-bottom: 5px;
@@ -145,44 +124,6 @@ blockquote {
       display: inline-block;
       margin: 0;
     }
-  }
-}
-
-// Mobile-first responsive design for profile
-@media (max-width: 575.98px) {
-  .profile {
-    width: 100%;
-    float: none !important;
-    margin-left: 0;
-    margin-right: 0;
-    text-align: center;
-    clear: both; // Clear any floats
-    position: relative;
-    z-index: 1;
-
-    img {
-      max-width: 180px;
-      width: auto;
-      height: auto;
-      margin: 0 auto;
-      display: block; // Ensure block display for centering
-    }
-
-    figure {
-      margin: 0 auto;
-      text-align: center;
-    }
-
-    picture {
-      display: block;
-      text-align: center;
-    }
-  }
-
-  // Ensure content flows properly after profile
-  .clearfix {
-    clear: both;
-    margin-top: 1rem;
   }
 }
 
