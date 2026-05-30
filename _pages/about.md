@@ -20,7 +20,7 @@ My research includes reinforcement learning (RL) and its applications in LLM pos
 
 I completed my bachelor's degree at <a  href="https://www.engineering.utoronto.ca/">University of Toronto</a>, working with <a  href="https://iqua.ece.toronto.edu/bli/">Baochun Li</a>, <a  href="https://d3m.mie.utoronto.ca/members/ssanner/">Scott Sanner</a>, and <a  href="https://www.cs.toronto.edu/~mvolkovs/">Maksims Volkovs</a>.
 
-I am also a part-time content creator with more than 50,000 followers and 12 million views on [Bilibili](https://space.bilibili.com/537049440), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc), and [YouTube](https://www.youtube.com/c/gitbag).
+I am also a part-time content creator with more than 50,000 followers and 12 million views on [Bilibili](https://space.bilibili.com/537049440) and [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc).
 
 <div align="center"> <a href="mailto:zg292@cornell.edu">Email</a> / <a href="/assets/pdf/Zhaolin_Gao_CV.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=4ANbX-YAAAAJ">Google Scholar</a> / <a href="https://x.com/GaoZhaolin">X</a> / <a href="https://www.linkedin.com/in/zhaolingao/">LinkedIn</a> </div>
 
