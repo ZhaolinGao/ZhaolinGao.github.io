@@ -14,13 +14,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a final-year Computer Science Ph.D. student at <a  href="https://www.cs.cornell.edu/">Cornell University</a>, working with <a  href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a  href="https://wensun.github.io/">Wen Sun</a>, where my research is supported by LinkedIn fellowship. My research includes reinforcement learning (RL) and its applications in LLM post-training. My work has been published at NeurIPS, ICLR, CVPR, WWW, SIGIR, CIKM, RecSys, and INFOCOM.
+I'm an incoming Member of Technical Staff at Microsoft Superintelligence.
 
-I completed my bachelor's degree in Computer Engineering at <a  href="https://www.engineering.utoronto.ca/">University of Toronto</a>, where I had the privilege of working with <a  href="https://iqua.ece.toronto.edu/bli/">Baochun Li</a>, <a  href="https://d3m.mie.utoronto.ca/members/ssanner/">Scott Sanner</a>, and <a  href="https://www.cs.toronto.edu/~mvolkovs/">Maksims Volkovs</a>.
+My research includes reinforcement learning (RL) and its applications in LLM post-training. I received my Ph.D. from <a  href="https://www.cs.cornell.edu/">Cornell</a>, where I was fortunate to work with <a  href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a  href="https://wensun.github.io/">Wen Sun</a>. My Ph.D. was supported by LinkedIn fellowship.
 
-I am also a part-time content creator with more than 50,000 followers and 10 million views on [Bilibili](https://space.bilibili.com/537049440), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc), and [YouTube](https://www.youtube.com/c/gitbag).
+I completed my bachelor's degree at <a  href="https://www.engineering.utoronto.ca/">University of Toronto</a>, working with <a  href="https://iqua.ece.toronto.edu/bli/">Baochun Li</a>, <a  href="https://d3m.mie.utoronto.ca/members/ssanner/">Scott Sanner</a>, and <a  href="https://www.cs.toronto.edu/~mvolkovs/">Maksims Volkovs</a>.
 
-<div align="center"> <a href="mailto:zg292@cornell.edu">Email</a> / <a href="/assets/pdf/Zhaolin_Gao_CV.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=4ANbX-YAAAAJ">Google Scholar</a> / <a href="https://www.linkedin.com/in/zhaolingao/">LinkedIn</a> </div>
+I am also a part-time content creator with more than 50,000 followers and 12 million views on [Bilibili](https://space.bilibili.com/537049440), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc), and [YouTube](https://www.youtube.com/c/gitbag).
+
+<div align="center"> <a href="mailto:zg292@cornell.edu">Email</a> / <a href="/assets/pdf/Zhaolin_Gao_CV.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=4ANbX-YAAAAJ">Google Scholar</a> / <a href="https://x.com/GaoZhaolin">X</a> / <a href="https://www.linkedin.com/in/zhaolingao/">LinkedIn</a> </div>
 
 <!-- Part-time content creator with more than 50,000 followers and 10 million views on [Bilibili](https://space.bilibili.com/537049440), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc), and [YouTube](https://www.youtube.com/c/gitbag).
  -->
