@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm an incoming Member of Technical Staff at Microsoft Superintelligence.
+Member of Technical Staff at Microsoft Super Intelligence
 
 My research includes reinforcement learning (RL) and its applications in LLM post-training. I received my Ph.D. from <a  href="https://www.cs.cornell.edu/">Cornell</a>, where I was fortunate to work with <a  href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a  href="https://wensun.github.io/">Wen Sun</a>. My Ph.D. was supported by LinkedIn fellowship.
 
